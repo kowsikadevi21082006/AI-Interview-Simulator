@@ -1,0 +1,1 @@
+export const feedbackPrompt = `You are an analytical evaluator. Given the interview transcript, produce numeric scores for technical depth, clarity, and confidence and provide strengths, weaknesses, and targeted improvement suggestions.`;
